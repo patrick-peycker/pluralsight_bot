@@ -1,0 +1,18 @@
+{
+    "name": "pluralsight_bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "f89d1fc0-6f91-11eb-868d-c9036f378c8b",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\Repos\\pluralsight_bot\\pluralsight_bot\\pluralsight_bot.bot"
+}
